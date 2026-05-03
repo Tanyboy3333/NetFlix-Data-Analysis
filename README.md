@@ -73,8 +73,8 @@ Netflix-data-analysis-eda/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-data-analysis-eda.git
-cd movie-data-analysis-eda
+git clone https://github.com/yourusername/NetFlix-Data-Analysis.git
+cd NetFlix-Data-Analysis
 ```
 
 ### 2. Install dependencies
